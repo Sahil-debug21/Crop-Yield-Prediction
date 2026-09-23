@@ -61,7 +61,6 @@ The dataset contains **10,000 records and 13 columns**.
 The following regression algorithms were trained and evaluated:
 
 * Linear Regression
-* K-Nearest Neighbors Regressor
 * Decision Tree Regressor
 * Random Forest Regressor
 * Support Vector Regressor
